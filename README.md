@@ -1,6 +1,6 @@
-# 🤖📝🔎 CV-Scanning: Automating the Hiring Process 🤝💼
+# 🤖📝🔎 Resume Screening: Automating the Hiring Process 🤝💼
 
-Looking to streamline your hiring process? 🕵️‍♂️🕵️‍♀️ Say hello to CV-Scanning! 🚀 Our project utilizes the power of machine learning to automate the screening of resumes for job vacancies in your company.
+Looking to streamline your hiring process? 🕵️‍♂️🕵️‍♀️ Say hello to Resume Screening! 🚀 Our project utilizes the power of machine learning to automate the screening of resumes for job vacancies in your company.
 
 No more tedious manual screening! 💤 Our approach ensures an efficient and objective process, eliminating any biases that may occur.
 
